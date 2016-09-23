@@ -11,5 +11,5 @@ package com.nhncorp.myapp;
  * @author NHN I&S
  */
 public class StaxParser {
-
+String test;
 }
